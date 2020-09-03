@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Cas Ibrahim, a Full-Stack JavaScript Developer from Seattle, Washington. 
+
+
 <!--
 **mamacas/mamacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
