@@ -10,7 +10,7 @@ Right now, I am building my portfolio with freelance projects, diving deeper int
 <br>and seeking Technical Program Manager or Entry-level Developer roles.
 <br>I am interested primarily in teams and organizations focused on social impact.
 <br><br>
-I am proud to be a muslim woman in tech, and I look forward to the day when I can use
+I am proud to be a Muslim woman in tech, and I look forward to the day when I can use
 <br> my skills as a developer to benefit my community and, more broadly, the world we live in.
 <br><br>
 
