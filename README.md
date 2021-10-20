@@ -1,9 +1,10 @@
 ### Salaam 👋🏼 
 
-I'm Cas, a Full-Stack JavaScript Developer from Seattle.
+I'm Qasira, a Full-Stack JavaScript Developer from Seattle.
 <br><br>
-Right now, I am building my portfolio with freelance projects, diving deeper into data structures & algorithms,
-<br>and seeking Technical Program Manager roles.
+Right now, I am enjoying taking on freelance web development projects.
+<br> I love building websites for small businesses and community organizations in my free time.
+<br>I am seeking Technical Recruiter roles at this time, as I am best suited for a full-time non-technical role within the tech industry.
 <br>I am interested primarily in teams and organizations focused on social impact.
 <br><br>
 I am proud to be a Muslim woman in tech, and I look forward to the day when I can use
